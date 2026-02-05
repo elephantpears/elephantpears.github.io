@@ -1,10 +1,3 @@
-
-```
----
-layout: default
-title: Home
----
-
 # Building Media-First Brands for the Future of Commerce
 
 We are building digital magazines that evolve into ecommerce platforms.
