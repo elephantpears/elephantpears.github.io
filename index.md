@@ -1,11 +1,11 @@
-# Building Media-First Brands for the Future of Commerce
+# Building -Lifestyles Brands for the Future of Commerce
 
-We are building digital magazines that evolve into ecommerce platforms.
+We are building digital products that evolve into ecommerce platforms.
 
 ## What we’re building
-- Digital magazines
+- Digital Products
 - Content-led communities
-- Media-first ecommerce concepts
+- Ecommerce concepts
 
 ## Who this is for
 Students, freshers, and curious builders looking for real startup experience.
